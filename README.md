@@ -61,7 +61,7 @@ I'm on a continuous journey to refine my data analysis skills and dive deeper in
       <img src="https://github.com/user-attachments/assets/8c694ff9-0003-415f-a280-fd3c0d5a1059" alt="Image 1" width="1200" height="200" />
     </td>
     <td valign="top" width="80%">
-      <a href="https://github.com/Ajay-data19/GLOBAL-SUPERSTORE-ANALYSIS-REPORTI"><strong>Global Superstore Analysis Report</strong></a><br /><br />
+      <a href="https://github.com/Ajay-data19/GLOBAL-SUPERSTORE-ANALYSIS-REPORT"><strong>Global Superstore Analysis Report</strong></a><br /><br />
      This project offers detailed analysis of the global superstore sales data, helping stakeholders leverage data-driven insights to refine their strategies, improve decision-making, and drive sustainable business growth..
     </td>
   </tr>
