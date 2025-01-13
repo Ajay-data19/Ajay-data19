@@ -67,3 +67,27 @@ I'm on a continuous journey to refine my data analysis skills and dive deeper in
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td valign="middle" width="40%">
+      <img src="https://github.com/user-attachments/assets/b03cf9f7-bfa7-4b05-ac47-f405503e86db" alt="Image 1" width="1200" height="200" />
+    </td>
+    <td valign="top" width="80%">
+      <a href="https://github.com/Ajay-data19/SUPPLY-CHAIN-ANALYSIS-REPORT"><strong>Supply Chain Analysis Report</strong></a><br /><br />
+     This Supply Chain Analysis Report was developed as part of my participation in the Onyx Data November 2024 DataDNA Challenge. The project focuses on key areas such as performance overview, quality and production, and shipping analysis, aiming to uncover actionable insights and drive process improvements.
+    </td>
+  </tr>
+</table>
+
+
+## 🌐 Let's Connect
+
+If you share a passion for data and analytics or if you'd like to collaborate on a project, feel free to reach out. I'm always excited to connect with fellow data enthusiasts and professionals. You can contact me at [ajaysonkatar@gmail.com](mailto:ajaysonkatar@gmail.com).
+
+<p align="left">
+  <a href="https://linkedin.com/in/ajay-sonkatar-b35492240/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fardin-khan-74b675268" height="30" width="40" />
+  </a>
+  
+
+Thanks for visiting, and let's explore the world of data together!
