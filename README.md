@@ -38,7 +38,7 @@ I'm on a continuous journey to refine my data analysis skills and dive deeper in
       <img src="https://github.com//user-attachments/assets/24171bff-a91e-4362-ac12-70c050a23611" alt="Image 1" width="1200" height="200" />
     </td>
     <td valign="top" width="80%">
-      <a href="https:github.com/Ajay-data19/Customer-Analysis-and-Risk-Assessment-SQL-PowerBI"><strong>Customer-Analysis-and-Risk-Assessment-SQL-PowerBI</strong></a><br /><br />
+      <a href="https://github.com/Ajay-data19/Customer-Analysis-and-Risk-Assessment-SQL-PowerBI"><strong>Customer-Analysis-and-Risk-Assessment-SQL-PowerBI</strong></a><br /><br />
       This project showcases a comprehensive approach to analyzing customer data and assessing risk for a dynamic financial institution. Using a combination of SQL for data exploration and analysis, and Power BI for visualization, the project delivers actionable insights to inform business.
     </td>
   </tr>
